@@ -1,15 +1,15 @@
 [
   {
     "Игрок": "dan1q",
-    "Страна": "Казахстан",
+    "Страна": "Kazakhstan",
     "Имя": "Danial Zhazymov",
-    "Описание": "В бане за читы на FACEIT.",
+    "Описание": "Cheating (FACEIT Ban)",
     "FACEIT Link": "https://www.faceit.com/en/players/-dan1q",
     "HLTV Link": "https://www.hltv.org/player/24915/dan1q"
   },
   {
     "Игрок": "ElayDzha",
-    "Страна": "Казахстан",
+    "Страна": "Kazakhstan",
     "Имя": "Aslan Erkashov",
     "Описание": "",
     "FACEIT Link": "https://www.faceit.com/en/players/-ElayDzha-",
@@ -17,7 +17,7 @@
   },
   {
     "Игрок": "for2na",
-    "Страна": "Казахстан",
+    "Страна": "Kazakhstan",
     "Имя": "Argyn Nurgaliev",
     "Описание": "",
     "FACEIT Link": "https://www.faceit.com/en/players/for2na",
@@ -25,7 +25,7 @@
   },
   {
     "Игрок": "R3LiFwOw",
-    "Страна": "Казахстан",
+    "Страна": "Kazakhstan",
     "Имя": "Zhanibek Kuatov",
     "Описание": "",
     "FACEIT Link": "https://www.hltv.org/player/23665/r3lifwow",
@@ -33,7 +33,7 @@
   },
   {
     "Игрок": "OxygeN",
-    "Страна": "Казахстан",
+    "Страна": "Kazakhstan",
     "Имя": "Abylay Khamitov",
     "Описание": "",
     "FACEIT Link": "https://www.faceit.com/en/players/OxygeN1437",
@@ -41,7 +41,7 @@
   },
   {
     "Игрок": "fatestyoshi",
-    "Страна": "Казахстан",
+    "Страна": "Kazakhstan",
     "Имя": "Marlen Bakir",
     "Описание": "",
     "FACEIT Link": "https://www.faceit.com/en/players/fatestyoshi",
@@ -49,7 +49,7 @@
   },
   {
     "Игрок": "singulier",
-    "Страна": "Казахстан",
+    "Страна": "Kazakhstan",
     "Имя": "Nurmukhammed Mugal",
     "Описание": "",
     "FACEIT Link": "https://www.faceit.com/en/players/singulier-",
@@ -57,7 +57,7 @@
   },
   {
     "Игрок": "modeSavage",
-    "Страна": "Казахстан",
+    "Страна": "Kazakhstan",
     "Имя": "Adil Tleuliyev",
     "Описание": "",
     "FACEIT Link": "https://www.faceit.com/en/players/modesavage_",
@@ -65,7 +65,7 @@
   },
   {
     "Игрок": "1skra",
-    "Страна": "Казахстан",
+    "Страна": "Kazakhstan",
     "Имя": "Asset Izgaleyev",
     "Описание": "",
     "FACEIT Link": "https://www.faceit.com/en/players/zjkiller",
@@ -73,7 +73,7 @@
   },
   {
     "Игрок": "raiNyyy",
-    "Страна": "Казахстан",
+    "Страна": "Kazakhstan",
     "Имя": "Zhasulan Tubaev",
     "Описание": "",
     "FACEIT Link": "https://www.faceit.com/en/players/444rainy",
@@ -81,7 +81,7 @@
   },
   {
     "Игрок": "cTaJIuH",
-    "Страна": "Казахстан",
+    "Страна": "Kazakhstan",
     "Имя": "",
     "Описание": "",
     "FACEIT Link": "https://www.faceit.com/en/players/Bmw_0777",
@@ -89,7 +89,7 @@
   },
   {
     "Игрок": "smokeoren",
-    "Страна": "Россия",
+    "Страна": "Russia",
     "Имя": "Vladislav Bannikov",
     "Описание": "",
     "FACEIT Link": "https://www.faceit.com/en/players/V1adick",
@@ -97,10 +97,90 @@
   },
   {
     "Игрок": "TIKI1769",
-    "Страна": "Казахстан",
+    "Страна": "Kazakhstan",
     "Имя": "",
     "Описание": "",
     "FACEIT Link": "https://www.faceit.com/en/players/TIKI1769",
     "HLTV Link": ""
+  },
+  {
+    "Игрок": "Blessed",
+    "Страна": "Kazakhstan",
+    "Имя": "Asker Khan",
+    "Описание": "Disqualified from Exort for active ban in FACEIT",
+    "FACEIT Link": "https://www.faceit.com/en/players/w1nd0w0Rtr01",
+    "HLTV Link": "https://www.hltv.org/player/24774/blessed"
+  },
+  {
+    "Игрок": "m1xon",
+    "Страна": "Russia",
+    "Имя": "Maksim Yurevich",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/-m1xon",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Sange",
+    "Страна": "Russia",
+    "Имя": "Vladislav Tsyuan",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/Sange",
+    "HLTV Link": "https://www.hltv.org/player/23114/sange"
+  },
+  {
+    "Игрок": "vt0rnikk",
+    "Страна": "Russia",
+    "Имя": "Yaroslav Terskov",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/vt0ra21",
+    "HLTV Link": "https://www.hltv.org/player/23986/vt0rnikk"
+  },
+  {
+    "Игрок": "d0RREN",
+    "Страна": "Russia",
+    "Имя": "Mark Karachevtsev",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/d0RREN",
+    "HLTV Link": "https://www.hltv.org/player/23987/d0rren"
+  },
+  {
+    "Игрок": "krc",
+    "Страна": "Kazakhstan",
+    "Имя": "Pavel Nim",
+    "Описание": "",
+    "FACEIT Link": "https://www.hltv.org/player/23990/krc",
+    "HLTV Link": "https://www.faceit.com/en/players/Koreec"
+  },
+  {
+    "Игрок": "rinn",
+    "Страна": "Kazakhstan",
+    "Имя": "Rauan Bakbergen",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/rinn1608",
+    "HLTV Link": "https://www.hltv.org/player/23318/rinn"
+  },
+  {
+    "Игрок": "m1xon",
+    "Страна": "Russia",
+    "Имя": "Maxim Yureevich",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/-m1xon",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "1Way2Di3",
+    "Страна": "Kazakhstan",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/1Way2Di3",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "kaito",
+    "Страна": "South Korea",
+    "Имя": "Maxim An",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/kaito",
+    "HLTV Link": "https://www.hltv.org/player/24397/kaito"
   }
 ]
