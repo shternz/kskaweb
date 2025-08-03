@@ -107,7 +107,7 @@
     "Игрок": "Blessed",
     "Страна": "Kazakhstan",
     "Имя": "Asker Khan",
-    "Описание": "Disqualified from Exort for active ban in FACEIT",
+    "Описание": "Disqualified from Exort for active FACEIT ban",
     "FACEIT Link": "https://www.faceit.com/en/players/w1nd0w0Rtr01",
     "HLTV Link": "https://www.hltv.org/player/24774/blessed"
   },
@@ -182,5 +182,133 @@
     "Описание": "",
     "FACEIT Link": "https://www.faceit.com/en/players/kaito",
     "HLTV Link": "https://www.hltv.org/player/24397/kaito"
+  },
+  {
+    "Игрок": "lockstock",
+    "Страна": "Russia",
+    "Имя": "Valeriy Pekhterev",
+    "Описание": "Cheating (FACEIT Ban)",
+    "FACEIT Link": "https://www.faceit.com/en/players/awpg0d",
+    "HLTV Link": "https://www.hltv.org/player/23329/lockstock"
+  },
+  {
+    "Игрок": "k1ssly",
+    "Страна": "Russia",
+    "Имя": "Dmitry Gostev",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/KuCJl9k-",
+    "HLTV Link": "https://www.hltv.org/player/21365/k1ssly"
+  },
+  {
+    "Игрок": "zealot",
+    "Страна": "Russia",
+    "Имя": "Sergey Zhukovich",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/zealot777",
+    "HLTV Link": "https://www.hltv.org/player/21192/zealot"
+  },
+  {
+    "Игрок": "newt",
+    "Страна": "Russia",
+    "Имя": "Ilya Voronov",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/newt",
+    "HLTV Link": "https://www.hltv.org/player/24900/newt"
+  },
+  {
+    "Игрок": "Mikejio",
+    "Страна": "Russia",
+    "Имя": "Mikhail Pereverzev",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/Mikejio",
+    "HLTV Link": "https://www.hltv.org/player/24899/mikejio"
+  },
+  {
+    "Игрок": "Qushue",
+    "Страна": "Russia",
+    "Имя": "Vladimir Kovtun",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/Qushue",
+    "HLTV Link": "https://www.hltv.org/player/23328/qushue"
+  },
+  {
+    "Игрок": "ex4p",
+    "Страна": "Russia",
+    "Имя": "Vladimir Demidov",
+    "Описание": "Banned for knowingly playing with a cheater (FACEIT)",
+    "FACEIT Link": "https://www.faceit.com/en/players/nikogda666",
+    "HLTV Link": "https://www.hltv.org/player/23331/ex4p"
+  },
+  {
+    "Игрок": "m1f",
+    "Страна": "Armenia",
+    "Имя": "Grigorii Ter-Saakian",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/m1f",
+    "HLTV Link": "https://www.hltv.org/player/23332/m1f"
+  },
+  {
+    "Игрок": "YuMA",
+    "Страна": "Russia",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/YuMA",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "b4blo",
+    "Страна": "Russia",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/b4bloooOoo",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "TrimaXx",
+    "Страна": "Russia",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/TrimaXx",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "yunjonglu",
+    "Страна": "Russia",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/yunjonglu",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "H0k17",
+    "Страна": "United States",
+    "Имя": "Daniel Lopukhin",
+    "Описание": "Cheating (FACEIT Ban)",
+    "FACEIT Link": "https://www.faceit.com/en/players/tvr71",
+    "HLTV Link": "https://www.hltv.org/player/23330/h0k17"
+  },
+  {
+    "Игрок": "natalia_audi",
+    "Страна": "Russia",
+    "Имя": "Daniil Sunkishev",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/natalia_audi",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "eksiver",
+    "Страна": "Russia",
+    "Имя": "Danila Yurkov",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/kamazmorrow",
+    "HLTV Link": "https://www.hltv.org/player/22074/eksiver"
+  },
+  {
+    "Игрок": "lUMiER",
+    "Страна": "Russia",
+    "Имя": "Yan Menshikov",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/lUMiERx",
+    "HLTV Link": "https://www.hltv.org/player/20449/lumier"
   }
 ]
