@@ -243,7 +243,7 @@
     "Игрок": "m1f",
     "Страна": "Armenia",
     "Имя": "Grigorii Ter-Saakian",
-    "Описание": "",
+    "Описание": "<a href=\\\"https://t.me/haruminews/1751\\\" target=\\\"_blank\\\">Leaked chat</a> about buying cheats but no automatic ban was issued by the system",
     "FACEIT Link": "https://www.faceit.com/en/players/m1f",
     "HLTV Link": "https://www.hltv.org/player/23332/m1f"
   },
@@ -283,7 +283,7 @@
     "Игрок": "H0k17",
     "Страна": "United States",
     "Имя": "Daniel Lopukhin",
-    "Описание": "Cheating (FACEIT Ban) <br> <br> Disqualified from <a href=\"https://liquipedia.net/counterstrike/HEROIC_x_Thunderpick/Path_To_The_Pros/Qualifier/Open/8\" target=\"_blank\">HEROIC x Thunderpick Path To The Pros: Open Qualifier #8</a>",
+    "Описание": "Cheating (FACEIT Ban)",
     "FACEIT Link": "https://www.faceit.com/en/players/tvr71",
     "HLTV Link": "https://www.hltv.org/player/23330/h0k17"
   },
@@ -291,7 +291,7 @@
     "Игрок": "natalia_audi",
     "Страна": "Russia",
     "Имя": "Daniil Sunkishev",
-    "Описание": "Disqualified from <a href=\"https://liquipedia.net/counterstrike/HEROIC_x_Thunderpick/Path_To_The_Pros/Qualifier/Open/8\" target=\"_blank\">HEROIC x Thunderpick Path To The Pros: Open Qualifier #8</a>",
+    "Описание": "",
     "FACEIT Link": "https://www.faceit.com/en/players/natalia_audi",
     "HLTV Link": ""
   },
@@ -299,14 +299,15 @@
     "Игрок": "eksiver",
     "Страна": "Russia",
     "Имя": "Danila Yurkov",
-    "Описание": "Disqualified from <a href=\"https://liquipedia.net/counterstrike/HEROIC_x_Thunderpick/Path_To_The_Pros/Qualifier/Open/8\" target=\"_blank\">HEROIC x Thunderpick Path To The Pros: Open Qualifier #8</a>",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/kamazmorrow",
     "HLTV Link": "https://www.hltv.org/player/22074/eksiver"
   },
   {
     "Игрок": "lUMiER",
     "Страна": "Russia",
     "Имя": "Yan Menshikov",
-    "Описание": "Disqualified from <a href=\"https://liquipedia.net/counterstrike/HEROIC_x_Thunderpick/Path_To_The_Pros/Qualifier/Open/8\" target=\"_blank\">HEROIC x Thunderpick Path To The Pros: Open Qualifier #8</a>",
+    "Описание": "",
     "FACEIT Link": "https://www.faceit.com/en/players/lUMiERx",
     "HLTV Link": "https://www.hltv.org/player/20449/lumier"
   }
