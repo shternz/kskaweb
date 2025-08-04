@@ -243,7 +243,7 @@
     "Игрок": "m1f",
     "Страна": "Armenia",
     "Имя": "Grigorii Ter-Saakian",
-    "Описание": "<a href=\\\"https://t.me/haruminews/1751\\\" target=\\\"_blank\\\">Leaked chat</a> about buying cheats but no automatic ban was issued by the system",
+    "Описание": "<a href=\"https://t.me/haruminews/1751\" target=\"_blank\">Leaked chat</a> about buying cheats but no automatic ban was issued by the system",
     "FACEIT Link": "https://www.faceit.com/en/players/m1f",
     "HLTV Link": "https://www.hltv.org/player/23332/m1f"
   },
@@ -310,5 +310,53 @@
     "Описание": "",
     "FACEIT Link": "https://www.faceit.com/en/players/lUMiERx",
     "HLTV Link": "https://www.hltv.org/player/20449/lumier"
+  },
+  {
+    "Игрок": "d1Xe",
+    "Страна": "Russia",
+    "Имя": "Igor Morshinin",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/22508/d1xe"
+  },
+  {
+    "Игрок": "BloodyK",
+    "Страна": "Russia",
+    "Имя": "Nikita Dobrynin",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/20708/bloodyk"
+  },
+  {
+    "Игрок": "k1Nd",
+    "Страна": "Russia",
+    "Имя": "Kirill Sherstobitov",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/20921/k1nd"
+  },
+  {
+    "Игрок": "w1ld",
+    "Страна": "Russia",
+    "Имя": "Andrey Kostylev",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/22507/w1ld"
+  },
+  {
+    "Игрок": "Wign",
+    "Страна": "Russia",
+    "Имя": "Aleksandr Petrov",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/23773/wign"
+  },
+  {
+    "Игрок": "ilvv",
+    "Страна": "Russia",
+    "Имя": "",
+    "Описание": "Coached E-Gaming during the <a href=\"https://liquipedia.net/counterstrike/TEAMPLAY/Season_1/Qualifier\" target=\"_blank\">TEAMPLAY Season 1</a> qualifiers. <br> <br> \nReceived a ban on <a href=\"https://play.esea.net/users/2878543\" target=\"_blank\">ESEA</a> one month after the tournament.",
+    "FACEIT Link": "",
+    "HLTV Link": ""
   }
 ]
