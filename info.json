@@ -107,7 +107,7 @@
     "Игрок": "Blessed",
     "Страна": "Kazakhstan",
     "Имя": "Asker Khan",
-    "Описание": "Disqualified from Exort for active FACEIT ban",
+    "Описание": "Disqualified from Exort for active FACEIT ban.",
     "FACEIT Link": "https://www.faceit.com/en/players/w1nd0w0Rtr01",
     "HLTV Link": "https://www.hltv.org/player/24774/blessed"
   },
@@ -187,7 +187,7 @@
     "Игрок": "lockstock",
     "Страна": "Russia",
     "Имя": "Valeriy Pekhterev",
-    "Описание": "Cheating (FACEIT Ban)",
+    "Описание": "Cheating (FACEIT Ban).",
     "FACEIT Link": "https://www.faceit.com/en/players/awpg0d",
     "HLTV Link": "https://www.hltv.org/player/23329/lockstock"
   },
@@ -243,7 +243,7 @@
     "Игрок": "m1f",
     "Страна": "Armenia",
     "Имя": "Grigorii Ter-Saakian",
-    "Описание": "<a href=\"https://t.me/haruminews/1751\" target=\"_blank\">Leaked chat</a> about buying cheats but no automatic ban was issued by the system",
+    "Описание": "<a href=\"https://t.me/haruminews/1751\" target=\"_blank\">Leaked chat</a> about buying cheats but no automatic ban was issued by the system.",
     "FACEIT Link": "https://www.faceit.com/en/players/m1f",
     "HLTV Link": "https://www.hltv.org/player/23332/m1f"
   },
@@ -283,7 +283,7 @@
     "Игрок": "H0k17",
     "Страна": "United States",
     "Имя": "Daniel Lopukhin",
-    "Описание": "Cheating (FACEIT Ban)",
+    "Описание": "Cheating (FACEIT Ban).",
     "FACEIT Link": "https://www.faceit.com/en/players/tvr71",
     "HLTV Link": "https://www.hltv.org/player/23330/h0k17"
   },
@@ -316,7 +316,7 @@
     "Страна": "Russia",
     "Имя": "Igor Morshinin",
     "Описание": "",
-    "FACEIT Link": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/d1Xe66",
     "HLTV Link": "https://www.hltv.org/player/22508/d1xe"
   },
   {
@@ -324,7 +324,7 @@
     "Страна": "Russia",
     "Имя": "Nikita Dobrynin",
     "Описание": "",
-    "FACEIT Link": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/BloodyK",
     "HLTV Link": "https://www.hltv.org/player/20708/bloodyk"
   },
   {
@@ -332,7 +332,7 @@
     "Страна": "Russia",
     "Имя": "Kirill Sherstobitov",
     "Описание": "",
-    "FACEIT Link": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/cs2hater-",
     "HLTV Link": "https://www.hltv.org/player/20921/k1nd"
   },
   {
@@ -340,7 +340,7 @@
     "Страна": "Russia",
     "Имя": "Andrey Kostylev",
     "Описание": "",
-    "FACEIT Link": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/CR7G0D",
     "HLTV Link": "https://www.hltv.org/player/22507/w1ld"
   },
   {
@@ -348,7 +348,7 @@
     "Страна": "Russia",
     "Имя": "Aleksandr Petrov",
     "Описание": "",
-    "FACEIT Link": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/Wign",
     "HLTV Link": "https://www.hltv.org/player/23773/wign"
   },
   {
@@ -357,6 +357,286 @@
     "Имя": "",
     "Описание": "Coached E-Gaming during the <a href=\"https://liquipedia.net/counterstrike/TEAMPLAY/Season_1/Qualifier\" target=\"_blank\">TEAMPLAY Season 1</a> qualifiers. <br> <br> \nReceived a ban on <a href=\"https://play.esea.net/users/2878543\" target=\"_blank\">ESEA</a> one month after the tournament.",
     "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "SZLOBESZKOV",
+    "Страна": "Hungary",
+    "Имя": "",
+    "Описание": "Matchfixing. <br> <br>\n\nDexerto: <a href=\"https://www.dexerto.com/league-of-legends/counter-strike-players-create-fake-pro-lol-team-to-rig-matches-get-caught-immediately-3230626/\" target=\"_blank\">«Counter-Strike players allegedly created a fake pro LoL team to rig matches»</a>.",
+    "FACEIT Link": "https://www.faceit.com/en/players/SZLOBESZKOV-",
+    "HLTV Link": "https://www.hltv.org/coach/23259/szlobeszkov"
+  },
+  {
+    "Игрок": "kory",
+    "Страна": "Hungary",
+    "Имя": "Kornél Szedlár",
+    "Описание": "Matchfixing. <br> <br>\n\nDexerto: <a href=\"https://www.dexerto.com/league-of-legends/counter-strike-players-create-fake-pro-lol-team-to-rig-matches-get-caught-immediately-3230626/\" target=\"_blank\">«Counter-Strike players allegedly created a fake pro LoL team to rig matches»</a>.",
+    "FACEIT Link": "https://www.faceit.com/en/players/kory-",
+    "HLTV Link": "https://www.hltv.org/player/16495/kory"
+  },
+  {
+    "Игрок": "Aaron",
+    "Страна": "Hungary",
+    "Имя": "Áron Homoki",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/_Aaron",
+    "HLTV Link": "https://www.hltv.org/player/13317/aaron"
+  },
+  {
+    "Игрок": "Porya",
+    "Страна": "Russia",
+    "Имя": "Danil Poryadin",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/Porya-",
+    "HLTV Link": "https://www.hltv.org/player/17293/porya"
+  },
+  {
+    "Игрок": "Bibu",
+    "Страна": "Egypt",
+    "Имя": "Bebu Aadil",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/bibu_",
+    "HLTV Link": "https://www.hltv.org/player/18163/bibu"
+  },
+  {
+    "Игрок": "DGL",
+    "Страна": "Poland",
+    "Имя": "Brajan Lemecha",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/dgl",
+    "HLTV Link": "https://www.hltv.org/player/20289/dgl"
+  },
+  {
+    "Игрок": "Summer",
+    "Страна": "China",
+    "Имя": "YuLun Cai",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/suMMMMMer-",
+    "HLTV Link": "https://www.hltv.org/player/7028/summer"
+  },
+  {
+    "Игрок": "somebody",
+    "Страна": "China",
+    "Имя": "HaoWen Xu",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/SOMEBODYGO1",
+    "HLTV Link": "https://www.hltv.org/player/8605/somebody"
+  },
+  {
+    "Игрок": "expro",
+    "Страна": "China",
+    "Имя": "Heng Yang",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/exproGL",
+    "HLTV Link": "https://www.hltv.org/player/12490/expro"
+  },
+  {
+    "Игрок": "phzy",
+    "Страна": "Sweden",
+    "Имя": "Love Smidebrant",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/phzy",
+    "HLTV Link": "https://www.hltv.org/player/16726/phzy"
+  },
+  {
+    "Игрок": "ScrunK",
+    "Страна": "Germany",
+    "Имя": "Robin Röpke",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/ScrunK",
+    "HLTV Link": "https://www.hltv.org/coach/8212/scrunk"
+  },
+  {
+    "Игрок": "kyuubii",
+    "Страна": "Germany",
+    "Имя": "Can Ali",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/-kyuubii",
+    "HLTV Link": "https://www.hltv.org/player/20170/kyuubii"
+  },
+  {
+    "Игрок": "PANIX",
+    "Страна": "Germany",
+    "Имя": "Max Hangebruch",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/PANIX_",
+    "HLTV Link": "https://www.hltv.org/player/19283/panix"
+  },
+  {
+    "Игрок": "soulfly",
+    "Страна": "Turkey",
+    "Имя": "Caner Kesici",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/soulfly",
+    "HLTV Link": "https://www.hltv.org/player/20968/soulfly"
+  },
+  {
+    "Игрок": "fleav",
+    "Страна": "Hungary",
+    "Имя": "Fodor Levente",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/fleav",
+    "HLTV Link": "https://www.hltv.org/player/12317/fleav"
+  },
+  {
+    "Игрок": "xavi",
+    "Страна": "Hungary",
+    "Имя": "Xavér Hebők",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/xavii-",
+    "HLTV Link": "https://www.hltv.org/player/21786/xavi"
+  },
+  {
+    "Игрок": "coolio",
+    "Страна": "Hungary",
+    "Имя": "András Fercsák",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/coolio",
+    "HLTV Link": "https://www.hltv.org/coach/14202/coolio"
+  },
+  {
+    "Игрок": "noleN",
+    "Страна": "Hungary",
+    "Имя": "Nolen Vida",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/noleN",
+    "HLTV Link": "https://www.hltv.org/player/24500/nolen"
+  },
+  {
+    "Игрок": "Kamion",
+    "Страна": "Hungary",
+    "Имя": "Jurus Zsolt",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/MISHA-KALASH",
+    "HLTV Link": "https://www.hltv.org/player/20882/kamion"
+  },
+  {
+    "Игрок": "msN",
+    "Страна": "Hungary",
+    "Имя": "Norbert Török",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/deliosSss",
+    "HLTV Link": "https://www.hltv.org/player/19084/msn"
+  },
+  {
+    "Игрок": "SHIFTZZZ",
+    "Страна": "Hungary",
+    "Имя": "Armand Hegedüs",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/SHIFTZZZ",
+    "HLTV Link": "https://www.hltv.org/player/21008/shiftzzz"
+  },
+  {
+    "Игрок": "Memeske",
+    "Страна": "Hungary",
+    "Имя": "Petz Bálint",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/Memeske",
+    "HLTV Link": "https://www.hltv.org/player/22291/memeske"
+  },
+  {
+    "Игрок": "sl3nd",
+    "Страна": "Hungary",
+    "Имя": "Henrich Hevesi",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/sl3nd-",
+    "HLTV Link": "https://www.hltv.org/player/20870/sl3nd"
+  },
+  {
+    "Игрок": "Maze",
+    "Страна": "Denmark",
+    "Имя": "Mikkel Sparvath",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/Maze",
+    "HLTV Link": "https://www.hltv.org/player/20033/maze"
+  },
+  {
+    "Игрок": "supermaN",
+    "Страна": "Hungary",
+    "Имя": "László Gács",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/supermanus",
+    "HLTV Link": "https://www.hltv.org/player/6815/superman"
+  },
+  {
+    "Игрок": "Profinnyo",
+    "Страна": "Hungary",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/Profinnyo",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "PALINNYO",
+    "Страна": "Hungary",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/PALINNYO",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "l0wiXX",
+    "Страна": "Hungary",
+    "Имя": "Benedek Éles",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/l0wiXX",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "ElSalivotas",
+    "Страна": "Hungary",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/ElSalivotas",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "lulurko",
+    "Страна": "Hungary",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/lulurko",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "lapatismad",
+    "Страна": "Hungary",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/lapatismad",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "DESHINNYO",
+    "Страна": "Hungary",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/DESHINNYO",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Kartinnyo",
+    "Страна": "Hungary",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/Kartinnyo",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "NIXTANK",
+    "Страна": "Hungary",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/NIXTANK",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "gonzo",
+    "Страна": "Hungary",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/gonzo",
     "HLTV Link": ""
   }
 ]
