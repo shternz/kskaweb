@@ -107,7 +107,7 @@
     "Игрок": "Blessed",
     "Страна": "Kazakhstan",
     "Имя": "Asker Khan",
-    "Описание": "Disqualified from Exort for active FACEIT ban.",
+    "Описание": "Disqualified from <a href=\"https://www.hltv.org/matches/2383539/modeame-vs-iberian-soul-exort-the-proving-grounds-season-2\" target=\"_blank\">Exort</a> for active FACEIT ban for cheating.",
     "FACEIT Link": "https://www.faceit.com/en/players/w1nd0w0Rtr01",
     "HLTV Link": "https://www.hltv.org/player/24774/blessed"
   },
@@ -158,14 +158,6 @@
     "Описание": "",
     "FACEIT Link": "https://www.faceit.com/en/players/rinn1608",
     "HLTV Link": "https://www.hltv.org/player/23318/rinn"
-  },
-  {
-    "Игрок": "m1xon",
-    "Страна": "Russia",
-    "Имя": "Maxim Yureevich",
-    "Описание": "",
-    "FACEIT Link": "https://www.faceit.com/en/players/-m1xon",
-    "HLTV Link": ""
   },
   {
     "Игрок": "1Way2Di3",
@@ -320,6 +312,14 @@
     "HLTV Link": "https://www.hltv.org/player/22508/d1xe"
   },
   {
+    "Игрок": "ilvv",
+    "Страна": "Russia",
+    "Имя": "",
+    "Описание": "Coached E-Gaming during the <a href=\"https://liquipedia.net/counterstrike/TEAMPLAY/Season_1/Qualifier\" target=\"_blank\">TEAMPLAY Season 1</a> qualifiers. <br> <br> \nReceived a ban on <a href=\"https://play.esea.net/users/2878543\" target=\"_blank\">ESEA</a> one month after the tournament.",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
     "Игрок": "BloodyK",
     "Страна": "Russia",
     "Имя": "Nikita Dobrynin",
@@ -350,14 +350,6 @@
     "Описание": "",
     "FACEIT Link": "https://www.faceit.com/en/players/Wign",
     "HLTV Link": "https://www.hltv.org/player/23773/wign"
-  },
-  {
-    "Игрок": "ilvv",
-    "Страна": "Russia",
-    "Имя": "",
-    "Описание": "Coached E-Gaming during the <a href=\"https://liquipedia.net/counterstrike/TEAMPLAY/Season_1/Qualifier\" target=\"_blank\">TEAMPLAY Season 1</a> qualifiers. <br> <br> \nReceived a ban on <a href=\"https://play.esea.net/users/2878543\" target=\"_blank\">ESEA</a> one month after the tournament.",
-    "FACEIT Link": "",
-    "HLTV Link": ""
   },
   {
     "Игрок": "SZLOBESZKOV",
@@ -643,348 +635,1692 @@
     "Игрок": "joel",
     "Страна": "Sweden",
     "Имя": "Joel Holmlund",
-    "Описание": "Cheating (Akros AC). <br> <br> Matchfixing (ESIC). <br> <br> HLTV: «joel handed lifetime ban by ESIC». <br> <br> HLTV: <a href=\"https://www.hltv.org/news/37113/blast-bar-victory-zigzag-coach-from-fall-showdown-following-cheating-ban\" target=\"_blank\">«BLAST bar Victory Zigzag coach from Fall Showdown following cheating ban».</a>",
-    "FACEIT Link": "",
-    "HLTV Link": ""
+    "Описание": "HLTV: «joel handed lifetime ban by ESIC». <br> <br> HLTV: <a href=\"https://www.hltv.org/news/37113/blast-bar-victory-zigzag-coach-from-fall-showdown-following-cheating-ban\" target=\"_blank\">«BLAST bar Victory Zigzag coach from Fall Showdown following cheating ban»</a>.",
+    "FACEIT Link": "https://www.faceit.com/en/players/joel",
+    "HLTV Link": "https://www.hltv.org/player/20363/joel"
   },
   {
     "Игрок": "RuStY",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Sweden",
+    "Имя": "Alfred Karlsson",
     "Описание": "",
-    "FACEIT Link": "",
-    "HLTV Link": ""
+    "FACEIT Link": "https://www.faceit.com/en/players/RuStY",
+    "HLTV Link": "https://www.hltv.org/player/10784/rusty"
   },
   {
     "Игрок": "Plopski",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Sweden",
+    "Имя": "Nicolas Gonzalez Zamora",
     "Описание": "",
-    "FACEIT Link": "",
-    "HLTV Link": ""
+    "FACEIT Link": "https://www.faceit.com/en/players/Plopski",
+    "HLTV Link": "https://www.hltv.org/player/14218/plopski"
   },
   {
     "Игрок": "draken",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Sweden",
+    "Имя": "William Sundin",
     "Описание": "",
-    "FACEIT Link": "",
-    "HLTV Link": ""
+    "FACEIT Link": "https://www.faceit.com/en/players/draken",
+    "HLTV Link": "https://www.hltv.org/player/9255/draken"
   },
   {
     "Игрок": "ztr",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Sweden",
+    "Имя": "Erik Gustafsson",
     "Описание": "",
-    "FACEIT Link": "",
-    "HLTV Link": ""
+    "FACEIT Link": "https://www.faceit.com/en/players/ztr",
+    "HLTV Link": "https://www.hltv.org/player/16486/ztr"
   },
   {
     "Игрок": "pr1metapz",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Germany",
+    "Имя": "Luca Voigt",
     "Описание": "",
-    "FACEIT Link": "",
-    "HLTV Link": ""
+    "FACEIT Link": "https://www.faceit.com/en/players/pzaza",
+    "HLTV Link": "https://www.hltv.org/player/21139/pr1metapz"
   },
   {
     "Игрок": "valde",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Denmark",
+    "Имя": "Valdemar Bjørn Vangså",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/9031/valde"
   },
   {
     "Игрок": "KWERTZZ",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Czech Republic",
+    "Имя": "Simon Horák",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/20345/kwertzz"
   },
   {
     "Игрок": "anarkez",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Israel",
+    "Имя": "Guy Trachtman",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/11815/anarkez"
   },
   {
     "Игрок": "Lekr0",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Sweden",
+    "Имя": "Jonas Olofsson",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/9261/lekr0"
   },
   {
     "Игрок": "CacaNito",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "North Macedonia",
+    "Имя": "Aleksandar Kjulukoski",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/18790/cacanito"
   },
   {
     "Игрок": "Zyphon",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Denmark",
+    "Имя": "Rasmus Nordfoss",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/20090/zyphon"
   },
   {
     "Игрок": "MoDo",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Romania",
+    "Имя": "Mădălin-Andrei Mirea",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/21113/modo"
   },
   {
     "Игрок": "Thomas",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "United Kingdom",
+    "Имя": "Thomas Utting",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/13018/thomas"
   },
   {
     "Игрок": "REDSTAR",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Bulgaria",
+    "Имя": "Hristiyan Pironkov",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/15369/redstar"
   },
   {
     "Игрок": "h4rn",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Bulgaria",
+    "Имя": "Deyvid Benchev",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/20097/h4rn"
   },
   {
     "Игрок": "interz",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Russia",
+    "Имя": "Timofey Yakushin",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/15071/interz"
   },
   {
     "Игрок": "poizon",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Bulgaria",
+    "Имя": "Valentin Vasilev",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/12126/poizon"
   },
   {
     "Игрок": "mupzG",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Denmark",
+    "Имя": "Nicolaj Djurhus",
     "Описание": "HLTV: <a href=\"https://www.hltv.org/news/37113/blast-bar-victory-zigzag-coach-from-fall-showdown-following-cheating-ban\" target=\"_blank\">«BLAST bar Victory Zigzag coach from Fall Showdown following cheating ban».</a>",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/7590/mupzg"
   },
   {
     "Игрок": "bubble",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Bulgaria",
+    "Имя": "Kamen Kostadinov",
     "Описание": "HLTV: <a href=\"https://www.hltv.org/news/37113/blast-bar-victory-zigzag-coach-from-fall-showdown-following-cheating-ban\" target=\"_blank\">«BLAST bar Victory Zigzag coach from Fall Showdown following cheating ban».</a>",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/coach/2799/bubble"
   },
   {
     "Игрок": "propleh",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Russia",
+    "Имя": "Dmitriy Senigov",
     "Описание": "HLTV: <a href=\"https://www.hltv.org/news/37113/blast-bar-victory-zigzag-coach-from-fall-showdown-following-cheating-ban\" target=\"_blank\">«BLAST bar Victory Zigzag coach from Fall Showdown following cheating ban».</a>",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/14055/propleh"
   },
   {
     "Игрок": "mertz",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Denmark",
+    "Имя": "Daniel Mertz",
     "Описание": "HLTV: <a href=\"https://www.hltv.org/news/37113/blast-bar-victory-zigzag-coach-from-fall-showdown-following-cheating-ban\" target=\"_blank\">«BLAST bar Victory Zigzag coach from Fall Showdown following cheating ban».</a>",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/9895/mertz"
   },
   {
     "Игрок": "JACKZ",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "France",
+    "Имя": "Audric Jug",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/284/jackz"
   },
   {
     "Игрок": "smooya",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "United Kingdom",
+    "Имя": "Owen Butterfield",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/11271/smooya"
   },
   {
     "Игрок": "fear",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Ukraine",
+    "Имя": "Rodion Smyk",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/17803/fear"
   },
   {
     "Игрок": "leakz",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Denmark",
+    "Имя": "Jamie Bugge West Jensen",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/21571/leakz"
   },
   {
     "Игрок": "Sdaim",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Ukraine",
+    "Имя": "Daniil Tupov",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/23047/sdaim"
   },
   {
     "Игрок": "Šego",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Czech Republic",
+    "Имя": "Gabrijel Šego",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/19675/ego"
   },
   {
     "Игрок": "Golden",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Sweden",
+    "Имя": "Maikil Selim",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/11110/golden"
   },
   {
     "Игрок": "Hardwell",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Russia",
+    "Имя": "Ivan Alekseev",
     "Описание": "HLTV: <a href=\"https://www.hltv.org/news/37113/blast-bar-victory-zigzag-coach-from-fall-showdown-following-cheating-ban\" target=\"_blank\">«BLAST bar Victory Zigzag coach from Fall Showdown following cheating ban».</a>",
     "FACEIT Link": "https://www.faceit.com/en/players/Hardwe1lll",
     "HLTV Link": "https://www.hltv.org/player/14162/hardwell"
   },
   {
     "Игрок": "GruBy",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Poland",
+    "Имя": "Dominik Swiderski",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/8570/gruby"
   },
   {
     "Игрок": "Zabey",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Russia",
+    "Имя": "Victor Lebedev",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/12237/zabey"
   },
   {
     "Игрок": "norison",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Ukraine",
+    "Имя": "Igor Matyev",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/8787/norison"
   },
   {
     "Игрок": "hyskeee",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Latvia",
+    "Имя": "Reinis Grīnbergs",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/11890/hyskeee"
   },
   {
     "Игрок": "Carcass",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Lithuania",
+    "Имя": "Robertas Mikuckis",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/11320/carcass"
   },
   {
     "Игрок": "TEGBIS",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Russia",
+    "Имя": "Ilya Pokolyavin",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/12236/tegbis"
   },
   {
     "Игрок": "pixeNN",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Russia",
+    "Имя": "Kirill Popadchenko",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/12239/pixenn"
   },
   {
     "Игрок": "artems0n",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Russia",
+    "Имя": "Artem Gauskneht",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/14499/artems0n"
   },
   {
     "Игрок": "SP1NT",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Russia",
+    "Имя": "Gleb Gorelov",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/12757/sp1nt"
   },
   {
     "Игрок": "D3x",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Ukraine",
+    "Имя": "Anton Kuzmenko",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/14163/d3x"
   },
   {
     "Игрок": "RAILWAY",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Russia",
+    "Имя": "Artem Gradovich",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/coach/14161/railway"
   },
   {
     "Игрок": "dooku",
-    "Страна": "",
-    "Имя": "",
+    "Страна": "Russia",
+    "Имя": "Alexandr Kamaev",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/20906/dooku"
   },
   {
-    "Игрок": "plty",
-    "Страна": "",
-    "Имя": "",
+    "Игрок": "p1ty",
+    "Страна": "Russia",
+    "Имя": "Sergey Kulagin",
     "Описание": "",
     "FACEIT Link": "",
-    "HLTV Link": ""
+    "HLTV Link": "https://www.hltv.org/player/20907/p1ty"
   },
   {
     "Игрок": "Qulon",
+    "Страна": "Russia",
+    "Имя": "Miroslav Tsvigun",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/12033/qulon"
+  },
+  {
+    "Игрок": "moonsh1n3",
+    "Страна": "Finland",
+    "Имя": "Mikhail Popkov",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/5469/moonsh1n3"
+  },
+  {
+    "Игрок": "prelideN",
+    "Страна": "Latvia",
+    "Имя": "Aivis Krastiņš",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/8429/preliden"
+  },
+  {
+    "Игрок": "Whiskas",
+    "Страна": "Latvia",
+    "Имя": "Ilya Rastopčins",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/13914/whiskas"
+  },
+  {
+    "Игрок": "forsaken",
+    "Страна": "India",
+    "Имя": "Nikhil Kumawat",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/14521/forsaken"
+  },
+  {
+    "Игрок": "Antidote",
+    "Страна": "India",
+    "Имя": "Sabyasachi Bose",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/14519/antidote"
+  },
+  {
+    "Игрок": "haiVaan",
+    "Страна": "India",
+    "Имя": "Vishal Sharma",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/17581/haivaan"
+  },
+  {
+    "Игрок": "Marzil",
+    "Страна": "India",
+    "Имя": "Agneya Koushik",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/10032/marzil"
+  },
+  {
+    "Игрок": "yb",
+    "Страна": "Germany",
+    "Имя": "Lukas Gröning",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/14930/yb"
+  },
+  {
+    "Игрок": "Busterrr",
+    "Страна": "India",
+    "Имя": "Sharan Dave",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/12471/busterrr"
+  },
+  {
+    "Игрок": "Impale",
+    "Страна": "India",
+    "Имя": "Hasnain Sayed",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/12467/impale"
+  },
+  {
+    "Игрок": "Kappa",
+    "Страна": "India",
+    "Имя": "Akshay Sinkar",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/12463/kappa"
+  },
+  {
+    "Игрок": "Fox",
+    "Страна": "India",
+    "Имя": "Jay Shah",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/11820/fox"
+  },
+  {
+    "Игрок": "Markelon",
+    "Страна": "India",
+    "Имя": "Swapnil Mahajan",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/12890/markelon"
+  },
+  {
+    "Игрок": "Revo1t",
+    "Страна": "India",
+    "Имя": "Amit Singh",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/14522/revo1t"
+  },
+  {
+    "Игрок": "akCeReBro",
+    "Страна": "India",
+    "Имя": "Sagar Singh",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/14520/akcerebro"
+  },
+  {
+    "Игрок": "spy",
+    "Страна": "India",
+    "Имя": "Varun Mehta",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/14523/spy"
+  },
+  {
+    "Игрок": "xicoz",
+    "Страна": "North Macedonia",
+    "Имя": "Zoran Markovski",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/xicoz",
+    "HLTV Link": "https://www.hltv.org/player/21067/xicoz"
+  },
+  {
+    "Игрок": "1vanG",
+    "Страна": "Russia",
+    "Имя": "Ivan Saklakov",
+    "Описание": "Cheating (FACEIT Ban).",
+    "FACEIT Link": "https://www.faceit.com/en/players/1vanG-",
+    "HLTV Link": "https://www.hltv.org/player/22763/1vang"
+  },
+  {
+    "Игрок": "R1N7331",
+    "Страна": "Belarus",
+    "Имя": "Aleksandr Tananayko",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/22799/r1n7331"
+  },
+  {
+    "Игрок": "ruloN",
+    "Страна": "Switzerland",
+    "Имя": "Niko Mylonas",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/20842/rulon"
+  },
+  {
+    "Игрок": "reezk",
+    "Страна": "Switzerland",
+    "Имя": "Fatih Gorda",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/19094/reezk"
+  },
+  {
+    "Игрок": "zed",
+    "Страна": "Switzerland",
+    "Имя": "Abiseck Baskaran",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/19092/zed"
+  },
+  {
+    "Игрок": "limeni",
+    "Страна": "North Macedonia",
+    "Имя": "Vlatko Gavrilov",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/22958/limeni"
+  },
+  {
+    "Игрок": "DAVEN",
+    "Страна": "Germany",
+    "Имя": "Tim Schillat",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/20326/daven"
+  },
+  {
+    "Игрок": "LeO",
+    "Страна": "North Macedonia",
+    "Имя": "Andrej Nikolovski",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/21787/leo"
+  },
+  {
+    "Игрок": "miksen",
+    "Страна": "Serbia",
+    "Имя": "Milos Mitrovic",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/23253/miksen"
+  },
+  {
+    "Игрок": "Monkeylay",
+    "Страна": "Turkey",
+    "Имя": "Burak Can Turunç",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/20978/monkeylay"
+  },
+  {
+    "Игрок": "fox3NN",
+    "Страна": "Turkey",
+    "Имя": "Hilmi Onur Turan",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/23275/fox3nn"
+  },
+  {
+    "Игрок": "lugseN",
+    "Страна": "Turkey",
+    "Имя": "Baha Emir Şengül",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/23274/lugsen"
+  },
+  {
+    "Игрок": "nettstyle",
+    "Страна": "Kosovo",
+    "Имя": "Arlind Kusari",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/NEttSTyLE",
+    "HLTV Link": "https://www.hltv.org/player/20678/nettstyle"
+  },
+  {
+    "Игрок": "Mangulito",
+    "Страна": "Serbia",
+    "Имя": "Luka Zivanovic",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/22725/mangulito"
+  },
+  {
+    "Игрок": "furio",
+    "Страна": "Serbia",
+    "Имя": "Dimitrije Stamenov",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/22959/furio"
+  },
+  {
+    "Игрок": "WANGJ",
+    "Страна": "China",
+    "Имя": "Pengyuan Wang",
+    "Описание": "Cheating (FACEIT Ban).",
+    "FACEIT Link": "https://www.faceit.com/en/players/WANGJ",
+    "HLTV Link": "https://www.hltv.org/player/18928/wangj"
+  },
+  {
+    "Игрок": "Marek",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Oi",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "MAD",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "BINGO",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Sakai",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "igorlight",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "ResoLuxe",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "dosikzz",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Roninbabyy",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Martin",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "tlntw",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Koshak",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "killmatic",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "quin",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "splashhs",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "KarmaN",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "mackdaddy",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "LlhaNg",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": 129,
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "FIOURN",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "JUMPBENG",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Stanzq",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Yzlam",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "ANS1N",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "xziii",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Reckless",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "shalala",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "SJR",
+    "Страна": "Peru",
+    "Имя": "Enmanuel Villar",
+    "Описание": "Cheating (FACEIT Ban).",
+    "FACEIT Link": "https://www.faceit.com/en/players/-SJR_",
+    "HLTV Link": "https://www.hltv.org/player/22920/sjr"
+  },
+  {
+    "Игрок": "zockie",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "BabyRage",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Antuanette",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Slayerhz",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Knight",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "TORITO",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Notjuanjo",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Jefrey",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Rome147",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Ganginho",
+    "Страна": "Ukraine",
+    "Имя": "Ilya Chernychenko",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/Alvares001",
+    "HLTV Link": "https://www.hltv.org/player/19913/ganginho"
+  },
+  {
+    "Игрок": "MaSvAl",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "sad",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "nifee",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "lollipop21k",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "sausol",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "yxngstxr",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "LNZ",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "xfl0ud",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "jR",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "zogeN",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "onic",
+    "Страна": "Ukraine",
+    "Имя": "Viktor Babii",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/24168/onic"
+  },
+  {
+    "Игрок": "St0m4k",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "remorse",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "kensizor",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "cairne",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "xxlafy",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "tripex17",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "guthriee",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "AxEcHo",
+    "Страна": "Poland",
+    "Имя": "Filip Czajka",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/21714/axecho"
+  },
+  {
+    "Игрок": "Furlan",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "leman",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "ultimate",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "F1KU",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "kRaSnaL",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Pelle",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "SpavaQu",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Markoś",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "tomiko",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Klameczka",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "bajmi",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "flayy",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "discoStar",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "darko",
+    "Страна": "Poland",
+    "Имя": "Kacper Ściera",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/11287/darko"
+  },
+  {
+    "Игрок": "kadziu",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "xKacpersky",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Tauson",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "sL1m3",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "fNk",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "zecco",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "next1me",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "blacktear5",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "mwlky",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "snatchie",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "phr",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "oskarish",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "merdi",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "asran",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "darchevile",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Enzo",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "mouz",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "MTZ",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "rallen",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "elem",
+    "Страна": "Poland",
+    "Имя": "Aleksander Wójcik",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/25071/elem"
+  },
+  {
+    "Игрок": "moonwalk",
+    "Страна": "Poland",
+    "Имя": "Bartosz Mikołajczyk",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "bonjorno",
+    "Страна": "Poland",
+    "Имя": "Oskar Mikłaszewicz",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/22701/bonjorno"
+  },
+  {
+    "Игрок": "CheDzik",
+    "Страна": "Poland",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "ZEMO",
+    "Страна": "Poland",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "https://www.faceit.com/en/players/-ZEMO",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Melavi",
+    "Страна": "Poland",
+    "Имя": "Patryk Baranski",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Frontsiderr",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "suonko",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "PeTeRoOo",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "fanatyk",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "karmazynsz",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "ZAMstaph",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "baljs",
+    "Страна": "Poland",
+    "Имя": "Bartosz Mikołajewicz",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/18069/baljs"
+  },
+  {
+    "Игрок": "Borsuq",
+    "Страна": "Poland",
+    "Имя": "Bartosz Borsuk",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": "https://www.hltv.org/player/18302/borsuq"
+  },
+  {
+    "Игрок": "Dyrod",
+    "Страна": "Croatia",
+    "Имя": "Filip Ivanković",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "dzesii",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "sh3nanigan",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Matheos",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "EaazyBoost",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "vel0city",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "L0ngBarrel",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "BuNTz",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "GreK",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Bloody Imp",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Vopsick",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "pANDEV1CH",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "fluffy",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "SlooKy",
+    "Страна": "Belarus",
+    "Имя": "Kiryl Misiukevich",
+    "Описание": "Cheating (FACEIT Ban).",
+    "FACEIT Link": "https://www.faceit.com/en/players/SlooKy_-",
+    "HLTV Link": "https://www.hltv.org/player/18329/slooky"
+  },
+  {
+    "Игрок": "seNsite",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "JoJo",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "hyza",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "ondyey",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "supa",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Saviour",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Magician",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "nico1ajus",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "sakova",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "pnq",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Mak",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "maeggi",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "dERZKIY",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "F1n3tw",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "LavL",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "DeNi",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "znxxX",
     "Страна": "",
     "Имя": "",
     "Описание": "",
@@ -1000,7 +2336,7 @@
     "HLTV Link": ""
   },
   {
-    "Игрок": "prelideN",
+    "Игрок": "sugaR",
     "Страна": "",
     "Имя": "",
     "Описание": "",
@@ -1008,7 +2344,279 @@
     "HLTV Link": ""
   },
   {
-    "Игрок": "Whiskas",
+    "Игрок": "glowiing",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "reN",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "stacuk",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "sL",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "k0vi4",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Valter0k",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "s1renaa",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "aleph",
+    "Страна": "United States",
+    "Имя": "Christopher Froden",
+    "Описание": "https://www.faceit.com/en/players/alephjk",
+    "FACEIT Link": "https://www.hltv.org/player/22243/aleph",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "R2D2J",
+    "Страна": "United States",
+    "Имя": "Emerson L.",
+    "Описание": "https://www.faceit.com/en/players/894350457657",
+    "FACEIT Link": "https://www.hltv.org/player/22090/r2d2j",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "heavn",
+    "Страна": "United States",
+    "Имя": "",
+    "Описание": "https://www.faceit.com/en/players/heavn",
+    "FACEIT Link": "https://www.hltv.org/player/23403/heavn",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Rayjax",
+    "Страна": "United States",
+    "Имя": "Raymond Cocozza",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "ryuzaki",
+    "Страна": "United States",
+    "Имя": "Lucas T.",
+    "Описание": "https://www.faceit.com/en/players/HAL-9000",
+    "FACEIT Link": "https://www.faceit.com/en/players/HAL-9000",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "rozo",
+    "Страна": "United States",
+    "Имя": "",
+    "Описание": "https://www.faceit.com/en/players/rozo",
+    "FACEIT Link": "https://www.hltv.org/player/22087/rozo",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "corim",
+    "Страна": "United States",
+    "Имя": "Augustin M.",
+    "Описание": "https://www.faceit.com/en/players/corim",
+    "FACEIT Link": "https://www.hltv.org/player/24813/corim",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "alula",
+    "Страна": "United States",
+    "Имя": "Max Schreier",
+    "Описание": "https://www.faceit.com/en/players/alula",
+    "FACEIT Link": "https://www.hltv.org/player/22298/alula",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "tizzyP",
+    "Страна": "United States",
+    "Имя": "",
+    "Описание": "https://www.faceit.com/en/players/LORDtwizzGOD",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "nero",
+    "Страна": "United States",
+    "Имя": "",
+    "Описание": "https://www.faceit.com/en/players/DjGuruBeats",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Elk",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "R2D2J",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "ayy",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "nooz",
+    "Страна": "Venezuela",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "snav",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "dare",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "shane",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "WOOHOO",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "shade",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "nbgee12",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "T0rby",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Fr3nk1e",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "intra",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "biubiubiu",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Hanyun",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "Tipsy_Bartender",
+    "Страна": "",
+    "Имя": "",
+    "Описание": "",
+    "FACEIT Link": "",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "EMIYA",
+    "Страна": "United States",
+    "Имя": "Damian Boulware",
+    "Описание": "",
+    "FACEIT Link": "https://www.hltv.org/player/14495/emiya",
+    "HLTV Link": ""
+  },
+  {
+    "Игрок": "consti",
     "Страна": "",
     "Имя": "",
     "Описание": "",
