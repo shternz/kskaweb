@@ -1,23 +1,43 @@
 [
   {
+    "Qualifier": "MAYAK Arena: Qualifier 2",
+    "Platform": "FACEIT",
+    "VRS": "No",
+    "Date": "20.09.2025",
+    "Prize": "$10000",
+    "Regions": "Russia",
+    "Description": "",
+    "Link": "https://www.faceit.com/en/championship/6e3e374d-7469-4488-933c-84ec6d7161d7/MAYAK%20ARENA%20OPEN%20QUALIFICATION%20No%202"
+  },
+  {
     "Qualifier": "Betera Esports League: Qualifier 1",
     "Platform": "FACEIT",
     "VRS": "No",
     "Date": "22.09.2025",
     "Prize": "$1500",
     "Regions": "Belarus",
-    "Description": "Meow",
+    "Description": "",
     "Link": "https://www.faceit.com/en/championship/a2f0507b-9f70-4f4f-939e-c3c16ddac393"
   },
   {
     "Qualifier": "Betera Esports League: Qualifier 2",
     "Platform": "FACEIT",
-    "VRS": "Yes",
+    "VRS": "No",
     "Date": "24.09.2025",
     "Prize": "$1500",
     "Regions": "Belarus",
     "Description": "",
     "Link": "https://www.faceit.com/en/championship/07f6cbf1-cc24-4337-bb52-84f0f4fc5a7b"
+  },
+  {
+    "Qualifier": "Master League Portugal Season 17: Qualifier 1",
+    "Platform": "FACEIT",
+    "VRS": "Yes",
+    "Date": "25.09.2025",
+    "Prize": "$7000",
+    "Regions": "Spain, Portugal",
+    "Description": "",
+    "Link": "https://www.faceit.com/en/championship/8bd3005c-d072-4af7-bdb0-dd547f9ec40b"
   },
   {
     "Qualifier": "Betera Esports League: Qualifier 3",
@@ -28,6 +48,36 @@
     "Regions": "Belarus",
     "Description": "",
     "Link": "https://www.faceit.com/en/championship/78860100-f208-468d-a731-6d75c2f4b416"
+  },
+  {
+    "Qualifier": "Master League Portugal Season 17: Qualifier 2",
+    "Platform": "FACEIT",
+    "VRS": "Yes",
+    "Date": "27.09.2025",
+    "Prize": "$7000",
+    "Regions": "Spain, Portugal",
+    "Description": "",
+    "Link": "https://www.faceit.com/en/championship/4779a299-2ecb-4ab4-b368-c8f56f8ad532"
+  },
+  {
+    "Qualifier": "eSM 2025: Qualifier 1",
+    "Platform": "Challenger",
+    "VRS": "Yes",
+    "Date": "27.09.2025",
+    "Prize": "$5900",
+    "Regions": "Finland",
+    "Description": "",
+    "Link": "https://www.challengermode.com/s/LanTrek/tournaments/ef21721d-f16b-4202-e798-08dddbfb0ceb"
+  },
+  {
+    "Qualifier": "eSM 2025: Qualifier 1",
+    "Platform": "Challenger",
+    "VRS": "Yes",
+    "Date": "28.09.2025",
+    "Prize": "$5900",
+    "Regions": "Finland",
+    "Description": "",
+    "Link": "https://www.challengermode.com/s/LanTrek/tournaments/2c253f20-512c-48f4-e7a0-08dddbfb0ceb"
   },
   {
     "Qualifier": "Betera Esports League: Qualifier 4",
@@ -60,6 +110,16 @@
     "Link": "https://www.faceit.com/en/championship/b1e4a4d1-3dc7-4e19-99ab-8e8dd3f72310"
   },
   {
+    "Qualifier": "Elisa Open Suomi S11: Qualifier 1",
+    "Platform": "FACEIT",
+    "VRS": "Yes",
+    "Date": "03.10.2025",
+    "Prize": "$5900",
+    "Regions": "Finland",
+    "Description": "",
+    "Link": "https://www.faceit.com/en/championship/f7cd0f7c-c797-4a1b-a9a1-ffb064da5e09"
+  },
+  {
     "Qualifier": "UKIC League Season 8: Qualifier 3",
     "Platform": "FACEIT",
     "VRS": "No",
@@ -70,6 +130,36 @@
     "Link": "https://www.faceit.com/en/championship/ab08cee7-abe6-4e03-aa3b-07b0b2df727e"
   },
   {
+    "Qualifier": "Elisa Open Suomi S11: Qualifier 2",
+    "Platform": "FACEIT",
+    "VRS": "Yes",
+    "Date": "04.10.2025",
+    "Prize": "$5900",
+    "Regions": "Finland",
+    "Description": "",
+    "Link": "https://www.faceit.com/en/championship/6eb4eb03-e2bd-442e-9946-c184fef6847f"
+  },
+  {
+    "Qualifier": "MAYAK Arena: Ural Qualifier",
+    "Platform": "FACEIT",
+    "VRS": "No",
+    "Date": "04.10.2025",
+    "Prize": "$10000",
+    "Regions": "Russia",
+    "Description": "Ural Region only",
+    "Link": "https://www.faceit.com/en/championship/e8803318-4784-4af9-9f50-4c52eb33f244/MAYAK%20ARENA%20OPEN%20Ural%20Federal%20QUAL"
+  },
+  {
+    "Qualifier": "Elisa Open Suomi S11: Qualifier 3",
+    "Platform": "FACEIT",
+    "VRS": "Yes",
+    "Date": "05.10.2025",
+    "Prize": "$5900",
+    "Regions": "Finland",
+    "Description": "",
+    "Link": "https://www.faceit.com/en/championship/62d8b969-d892-48e4-8b76-7cce94ba9df6"
+  },
+  {
     "Qualifier": "UKIC League Season 8: Qualifier 4",
     "Platform": "FACEIT",
     "VRS": "No",
@@ -78,5 +168,55 @@
     "Regions": "UK, Ireland",
     "Description": "",
     "Link": "https://www.faceit.com/en/championship/36ce1c52-0324-4610-9a91-6ba7857448ba"
+  },
+  {
+    "Qualifier": "Svenska Cupen 2025: Qualifier 1",
+    "Platform": "FACEIT",
+    "VRS": "Yes",
+    "Date": "11.10.2025",
+    "Prize": "$32300",
+    "Regions": "Sweden",
+    "Description": "Registration is not open yet.",
+    "Link": "https://liquipedia.net/counterstrike/Svenska_Cupen/2025"
+  },
+  {
+    "Qualifier": "Svenska Cupen 2025: Qualifier 2",
+    "Platform": "FACEIT",
+    "VRS": "Yes",
+    "Date": "12.10.2025",
+    "Prize": "$32300",
+    "Regions": "Sweden",
+    "Description": "Registration is not open yet.",
+    "Link": "https://liquipedia.net/counterstrike/Svenska_Cupen/2025"
+  },
+  {
+    "Qualifier": "Svenska Cupen 2025: Qualifier 3",
+    "Platform": "FACEIT",
+    "VRS": "Yes",
+    "Date": "18.10.2025",
+    "Prize": "$32300",
+    "Regions": "Sweden",
+    "Description": "Registration is not open yet.",
+    "Link": "https://liquipedia.net/counterstrike/Svenska_Cupen/2025"
+  },
+  {
+    "Qualifier": "Galaxy Battle 2025 // Phase 5: Qualifier",
+    "Platform": "FACEIT",
+    "VRS": "Yes",
+    "Date": "19.10.2025",
+    "Prize": "$50000",
+    "Regions": "Europe",
+    "Description": "Registration is not open yet.",
+    "Link": "https://liquipedia.net/counterstrike/Galaxy_Battle/2025/Phase_5/Qualifier"
+  },
+  {
+    "Qualifier": "Svenska Cupen 2025: Qualifier 4",
+    "Platform": "FACEIT",
+    "VRS": "Yes",
+    "Date": "19.10.2025",
+    "Prize": "$32300",
+    "Regions": "Sweden",
+    "Description": "Registration is not open yet.",
+    "Link": "https://liquipedia.net/counterstrike/Svenska_Cupen/2025"
   }
 ]
